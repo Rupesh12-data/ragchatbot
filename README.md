@@ -249,7 +249,7 @@ streamlit run pdf_ragbot.py
 
 ---
 
-# 📌 Future Improvements
+# Future Improvements
 
 * Chat history
 * Multiple PDF support
@@ -260,7 +260,7 @@ streamlit run pdf_ragbot.py
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Rupesh Phyauli Magar**
 
