@@ -1,4 +1,7 @@
 
+ **Try the application here:**
+[https://your-app-url.streamlit.app](https://ragchatbot-f9wokoqpjsvetatsxuv4ce.streamlit.app/)
+
 # PDF RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot built with **Streamlit**, **LlamaParse**, **Sentence Transformers**, **FAISS**, and **Google Gemini 2.5 Flash**. The application allows users to upload a PDF, process its contents, and ask natural language questions that are answered using only the information contained in the uploaded document.
