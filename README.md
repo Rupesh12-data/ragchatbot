@@ -194,7 +194,7 @@ Final Answer
 
 ---
 
-# ▶️ Installation
+# Installation
 
 Clone the repository
 
